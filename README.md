@@ -15,3 +15,7 @@ The Python Slot Machine project is designed to help you understand and practice 
 - Interactive user interface
 - Win and lose conditions
 - Customizable bet amounts
+
+• WARNING
+
+I do NOT promote gambling in any manner. Gambling is associated with significant harms including increased risks of physical and mental health problems, separation, divorce, financial difficulties and bankruptcy, intimate partner violence and fraud.
