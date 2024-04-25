@@ -1,2 +1,17 @@
-# Slot-Machine-Game
-This project houses a replica of the classic gambling slot machine game implemented in Python. You'll explore and understand fundamental concepts of Python while building an interactive and entertaining game. From basic data types and control structures to more advanced concepts like functions and classes, this project covers it all.
+• Overview
+
+The Python Slot Machine project is designed to help you understand and practice fundamental concepts of Python programming while building an interactive game. This project explains :
+
+- Data types and variables
+- Control structures (loops and conditionals)
+- Functions
+- Classes and objects
+- Random number generation
+- User input and interaction
+
+• Features
+
+- Realistic slot machine gameplay
+- Interactive user interface
+- Win and lose conditions
+- Customizable bet amounts
